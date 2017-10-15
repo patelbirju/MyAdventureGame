@@ -1,0 +1,13 @@
+{
+  "name": "myadventuregame",
+  "version": "1.0.0",
+  "description": "Simple chatbot game",
+  "main": "app.js",
+  "dependencies": {
+    "express": "*",
+    "path": "*",
+    "twilio": "^3.7.0"
+  },
+  "author": "Birju Patel",
+  "license": "ISC"
+}
